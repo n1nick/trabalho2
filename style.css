@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(247, 244, 119);
+}
+h1 {
+    color: black;
+}
+h2 {
+    background-color: white;
+    color: black;
+    border: 5px;
+    border-bottom: 5px;
+    border-top: 5px;
+    border-width: 5px;
+    text-align: center
+}
+#corpo {
+    border: 1px;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    margin-left: 1250px;
+    margin-top: -170px;
+    width: 200px;
+    height: 250px;
+}
